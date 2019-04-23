@@ -14,12 +14,18 @@ h5,
 h6 {
     font-weight: 700;
 }
+
 p {
-	font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6 {
-	font-weight: 700;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
 
 }
 
@@ -35,28 +41,29 @@ h1 {
 
 section {
 
-	text-align: center;
-	padding: 20px;
+    text-align: center;
+    padding: 20px;
 }
 
 div.hubspot-cta-container {
-	display:block;
-	text-align:center;
-	margin-top:20px;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
 
 }
 
 a.cta_button {
-	padding:10px 20px;
-	color: white;
-	background-color:green;
-
-    text-align: center;
-    padding: 20px;
-    max-width: 1400px;
-    margin: 0 auto;
-    background-image: url('https://blog.hubspot.com/hs-fs/hub/53/file-410482935-jpg/chris-newbreed-shot.jpg');
-    background-size: 100px;
-
-
+    padding: 10px 20px;
+    color: white;
+    background-color: green;
 }
+
+ section {
+        text-align: center;
+        padding: 20px;
+        max-width: 1400px;
+        margin: 0 auto;
+        background-image: url('https://blog.hubspot.com/hs-fs/hub/53/file-410482935-jpg/chris-newbreed-shot.jpg');
+        background-size: 100px;
+
+    }
