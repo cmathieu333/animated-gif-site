@@ -2,8 +2,17 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 * {
-	font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
 
 p {
 	font-family: 'Roboto', sans-serif;
@@ -11,17 +20,21 @@ p {
 
 h1,h2,h3,h4,h5,h6 {
 	font-weight: 700;
+
 }
 
-p,ul,li {
-	font-weight: 300;
+p,
+ul,
+li {
+    font-weight: 300;
 }
 
 h1 {
-	font-size: 40px;
+    font-size: 40px;
 }
 
 section {
+
 	text-align: center;
 	padding: 20px;
 }
@@ -37,4 +50,13 @@ a.cta_button {
 	padding:10px 20px;
 	color: white;
 	background-color:green;
+
+    text-align: center;
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+    background-image: url('https://blog.hubspot.com/hs-fs/hub/53/file-410482935-jpg/chris-newbreed-shot.jpg');
+    background-size: 100px;
+
+
 }
